@@ -1,4 +1,2 @@
-# Michael Hodge - NinjaTrader Task
-
-A small demo of localization functionalities in Flutter.
+# A small demo of localization functionalities in Flutter.
 
